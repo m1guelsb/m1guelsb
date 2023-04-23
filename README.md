@@ -5,3 +5,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mysql,jest,figma,tailwind,styledcomponents&perline=4" />
   </a>
 </div>
+
+<div align="center">
+  ![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+</div>
