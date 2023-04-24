@@ -16,13 +16,15 @@
     <img title="CSS" src="https://skillicons.dev/icons?i=css" />
     <img title="ReactJS" src="https://skillicons.dev/icons?i=react" />
     <img title="NextJS" src="https://skillicons.dev/icons?i=nextjs" />
-    <img title="VueJS" src="https://skillicons.dev/icons?i=vuejs" />
+    <img title="VueJS" src="https://skillicons.dev/icons?i=tailwind" />
+    <img title="Styled-components" src="https://skillicons.dev/icons?i=styledcomponents" />
     <br/>
     <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" />
     <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" />
     <img title="NestJS" src="https://skillicons.dev/icons?i=nestjs" />
     <img title="PrismaORM" src="https://skillicons.dev/icons?i=prisma" />
     <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+    <img title="Postgres" src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </div>
 
