@@ -27,9 +27,3 @@
     <img title="Postgres" src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </div>
-
-<br/>
-
-<p align="center">
-  <img align="center" src="https://github.com/m1guelsb/m1guelsb/blob/output/github-contribution-grid-snake.svg"/>
-</p>
