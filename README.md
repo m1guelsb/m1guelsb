@@ -11,8 +11,8 @@
   <a href="https://github.com/m1guelsb">  
     <img title="Javascript" src="https://skillicons.dev/icons?i=js" height="48" />
     <img title="Typescript" src="https://skillicons.dev/icons?i=ts" height="48" />
-    <img title="Typescript" src="https://skillicons.dev/icons?i=java" height="48" />
-    <img title="Typescript" src="https://skillicons.dev/icons?i=spring" height="48" />
+    <img title="Java" src="https://skillicons.dev/icons?i=java" height="48" />
+    <img title="Spring" src="https://skillicons.dev/icons?i=spring" height="48" />
     <br/>
     <img title="HTML" src="https://skillicons.dev/icons?i=html" />
     <img title="CSS" src="https://skillicons.dev/icons?i=css" />
