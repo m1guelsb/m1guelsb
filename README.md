@@ -1,7 +1,6 @@
 <div align="center">
-  <h4></h4>
   <h1>
-    Hi! My name is Miguel
+    Hi! My name is <b style="color:'#936dff'">Miguel</b>
     <h3>Fullstack Software Developer</h3>
   </h1>
 </div>  
