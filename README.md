@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>
-    Hi! My name is <b style="color:'#936dff'">Miguel</b>
-    <h3>Fullstack Software Developer</h3>
-  </h1>
-</div>  
+    <h1 style="font-size: 3rem;">Hi! My name is Miguel</h1>
+    <h3 style="font-size: 1rem;">Fullstack Software Developer</h3>
+</div>
 
 
 <div align="center">
